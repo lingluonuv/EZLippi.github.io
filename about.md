@@ -12,7 +12,7 @@ title: "关于：About"
 ## 联系方式
 
 <p class="contact">
- 邮箱: 1248214343@qq.com 
+ 邮箱: lingluonuv@gmail.com 
 </p>
 
 ### 关于本站：

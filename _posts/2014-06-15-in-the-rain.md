@@ -1,10 +1,10 @@
 ---
-title: 在雨中
-date: 2014-06-15 01:05:13 +0800
+title: 新的开始
+date: 2018-09-02 11:45:13 +0800
 layout: post
-permalink: /blog/2014/06/15/in-the-rain.html
+permalink: /blog/2014/06/15/new-begin.html
 categories:
-  - java
+  - ios
 tags:
   - Life
   - 生活
